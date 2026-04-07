@@ -29,22 +29,7 @@ This project combines multiple utilities such as date-time operations, mathemati
   * Datetime Module
   * UUID Module
 
----
 
-## 📂 Project Structure
-
-```
-Moduler-Packager/
-│
-├── main.py
-├── date_time.py
-├── Mathematical_Operations.py
-├── Random_data_generation.py
-├── Generate_Unique_Identifiers.py
-├── File_Operations.py
-├── Explore_Module_Attributes.py
-└── README.md
-```
 
 ---
 
